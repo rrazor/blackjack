@@ -4,10 +4,17 @@ Simple three-deck blackjack simulator I wrote on a plane to Vegas in 2005.
 
 ## Quickstart
 
+Compile:
 ```
 $ make
+```
+
+Run:
+```
 $ ./blackjack
 ```
+
+Use `CTRL-C` to exit the game.
 
 ## Known Bugs
 
